@@ -1,2 +1,2 @@
-# Python-for-DS
+# Python_for_DS
 Репозиторій для ДЗ
